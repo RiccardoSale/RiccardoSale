@@ -22,5 +22,5 @@ On my pinned section on GitHub, you can see some of the best projects I worked o
 
 <p align="left">
   <img width="63%" src='https://svgshare.com/i/_Tx.svg' title='' />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiccardoSale&hide=Css,SCSS&layout=compact&theme=radical" /> 
+  <!--<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiccardoSale&hide=Css,SCSS&layout=compact&theme=radical" /> -->
 </p>
