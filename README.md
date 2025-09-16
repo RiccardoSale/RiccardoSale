@@ -14,9 +14,7 @@ On my pinned section on GitHub, you can see some of the best projects I worked o
     width="49%"
     src="https://github-readme-stats.vercel.app/api?username=RiccardoSale&count_private=true&show_icons=true&count_private=true&include_all_commits=true&theme=radical"
   />  -->
-  <img 
-    width="49%"
-    src="http://github-readme-streak-stats.herokuapp.com?user=RiccardoSale&border=e4e2e2&theme=radical" />  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RiccardoSale&theme=dark)](https://git.io/streak-stats)
 
 </p>
 
