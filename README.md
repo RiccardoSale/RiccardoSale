@@ -5,6 +5,7 @@ I'm focusing on getting an internship in a research or Big tech company. <br>
 Feel free to also check my [LinkedIn profile](https://www.linkedin.com/in/riccardo-sale/). <br>
 
 On my pinned section on GitHub, you can see some of the best projects I worked on in the last years. <br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RiccardoSale)](https://git.io/streak-stats)
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccardoSale)](https://github.com/anuraghazra/github-readme-stats)-->
 <p align="left">
 </p>
